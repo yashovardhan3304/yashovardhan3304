@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashovardhan3304
-- 👀 I’m interested in full statk web development
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning dsa with java 
 - 💞️ I’m looking to collaborate on insta 
 - 📫 How to reach me @yashovardhan_._0721
